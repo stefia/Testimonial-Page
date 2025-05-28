@@ -46,8 +46,8 @@ body {
     display: flex;
     justify-content: space-around;
     gap: 3.75rem;
-    margin-top: 25vh;
-    padding-inline: 5%;
+    margin-top: 250px;
+    padding-left: 60px;
 }
 
 .reviewers__icon {
