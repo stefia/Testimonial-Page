@@ -38,16 +38,15 @@ body {
 
 .text--caption {
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 400;
     color: #52525A;
 }
 
 .reviewers__container {
     display: flex;
-    justify-content: space-around;
-    gap: 3.75rem;
+    justify-content: center;
+    gap: 5rem;
     margin-top: 250px;
-    padding-left: 60px;
 }
 
 .reviewers__icon {
