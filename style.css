@@ -150,7 +150,7 @@ body {
 
 @media (max-width: 640px) {
     .reviewers__container {
-        margin: 45px 10px 10px 10px;
+        margin: 45px 10px 40px 10px;
     }
     .reviewers_cards {
         gap: 160px;
