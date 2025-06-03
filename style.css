@@ -39,6 +39,7 @@ body {
 .text--caption {
     font-size: 14px;
     font-weight: 400;
+    line-height: 1.8;
     color: #52525A;
 }
 
@@ -46,7 +47,7 @@ body {
     display: flex;
     justify-content: center;
     gap: 40px;
-    margin: 190px 72px 0 72px;
+    margin: 190px 72px 10px 72px;
 }
 
 .reviewers__icon {
@@ -149,7 +150,7 @@ body {
 
 @media (max-width: 640px) {
     .reviewers__container {
-        margin: 45px 10px 0px 10px;
+        margin: 45px 10px 10px 10px;
     }
     .reviewers_cards {
         gap: 160px;
